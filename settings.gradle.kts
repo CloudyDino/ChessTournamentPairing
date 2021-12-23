@@ -1,3 +1,2 @@
 
-rootProject.name = "ChessTournamentPairing"
-
+rootProject.name = "chess-tournament-pairing"

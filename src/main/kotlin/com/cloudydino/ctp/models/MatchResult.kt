@@ -1,4 +1,4 @@
-package models
+package com.cloudydino.ctp.models
 
 enum class MatchResult {
     WHITE_WIN,

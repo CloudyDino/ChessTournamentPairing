@@ -1,4 +1,4 @@
-package models
+package com.cloudydino.ctp.models
 
 data class Round(
     val matches: List<Match>,
